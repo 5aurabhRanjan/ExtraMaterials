@@ -5,4 +5,4 @@ These are additional materials for the class. They do not strictly follow the co
 
 ## Some Useful External Links
 If you are moving to Python from Matlab, check out this 'CheatSheet':
-http://mathesaurus.sourceforge.net/matlab-numpy.html
+- http://mathesaurus.sourceforge.net/matlab-numpy.html
